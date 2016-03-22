@@ -2,14 +2,48 @@
     display: flex;
     padding: 10px;
 }
+
+.car button {
+    /*border: 2px solid;*/
+    border-radius: 50%;
+    color: goldenrod;
+    background-color: red;
+    outline: none;
+    height: 100px;
+    width: 100px;
+    font-size: 200%;
+    
+}
+
 .cop button {
     margin-left: 250px;
+    border-radius: 50%;
+    color: red;
+    background-color: blue;
+    outline: none;
+    height: 100px;
+    width: 100px;
+    font-size: 160%;
 }
 
 .bike button {
     margin-left: 250px;
+    border-radius: 50%;
+    color: silver;
+    background-color: black;
+    outline: none;
+    height: 100px;
+    width: 100px;
+    font-size: 125%;
 }
 
 .tank button {
     margin-left: 250px;
+    border-radius: 50%;
+    color: saddlebrown;
+    background-color: #78866b;
+    outline: none;
+    height: 100px;
+    width: 100px;
+    font-size: 200%;
 }
