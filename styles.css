@@ -1,0 +1,15 @@
+.button-container {
+    display: flex;
+    padding: 10px;
+}
+.cop button {
+    margin-left: 250px;
+}
+
+.bike button {
+    margin-left: 250px;
+}
+
+.tank button {
+    margin-left: 250px;
+}
