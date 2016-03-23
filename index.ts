@@ -1,3 +1,5 @@
+/// <reference path= "typings/browser.d.ts" />
+
 class Vehicle {
     div: HTMLDivElement;
     value: number;
