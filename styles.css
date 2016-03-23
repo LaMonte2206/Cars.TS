@@ -1,6 +1,7 @@
 .button-container {
     display: flex;
     padding: 10px;
+    position: absolute;
 }
 
 .car button {
@@ -47,4 +48,10 @@
     width: 100px;
     font-size: 200%;
     background-image: URL(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxOV94VQho_DbKezKU9nrH-JDvRMcFKiL2EkvEbJ-PXm25Pw3EPo5tvSdC);    
+}
+Car {
+    border: solid black;
+    height: 20px;
+    width: 20px;
+    
 }
